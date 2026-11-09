@@ -274,4 +274,14 @@ mathtools/
 
 ## License
 
-MIT — do whatever you like.
+**Proprietary — all rights reserved.** Copyright (c) 2026 csupu.
+
+The original project code is not offered under an open-source license.
+Copying, modification, redistribution, and other uses require prior written
+permission, except where applicable law or a separately applicable license
+permits otherwise. See [LICENSE](LICENSE) for the full notice and permission
+request details. Third-party dependencies retain their own licenses.
+
+This notice applies from the commit introducing it onward. Earlier versions,
+including the original `v1.0` release, contained different licensing wording;
+this change does not revoke permissions previously granted for those versions.
