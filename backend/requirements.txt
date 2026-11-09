@@ -1,0 +1,6 @@
+fastapi
+websockets
+uvicorn[standard]
+httpx
+ollama
+sympy
